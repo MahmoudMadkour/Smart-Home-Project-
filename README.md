@@ -14,10 +14,10 @@ temperature.
 ❑ Admin mode can register any user or remove.
 
 ❑ Usernames and password must be kept into memory even if 
-the system is powered off.
+the system is powered off using EEBROM.
 
 ❑ If admin or any user or passwords are entered wrong more 
-than 3 trial, the system must break down and fire alarm until 
+than 3 trial, the system break down and fire alarm until 
 reset.
 
 ❑ Admin and user can access to all applies except user cannot 
